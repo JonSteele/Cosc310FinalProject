@@ -3,7 +3,6 @@ Cosc310FinalProject
 
 Final Project for COSC 310
 
--The executable filename is SportsTrivaBot.jar
 -There is no web interface, or requirements for the program to run.
 
 Summary:
@@ -17,6 +16,7 @@ There are no A+ features implemented in this program.
 Files:
 
 SportsTriviaBot.jar - Executable jar file this is the entire program
+to run it use the command java -jar SportsTriviaBot.jar
 
 Issues:
 
